@@ -1,4 +1,7 @@
 # Logan-Two
+Saved for memories! This was my first version of Hey Logan.
+
+
 Chatbot and AI Designed to Act and Live as Logan
 
 Ultimately, I, Logan Garcia, designed this chatbot to act and live as me after my immunity ends.
